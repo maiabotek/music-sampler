@@ -123,6 +123,10 @@ img {
   padding: .5rem,0rem;
 }
 
+audio{
+  max-width: 80%;
+}
+
 footer {
   margin: 0rem;
   margin-top: 1rem;
