@@ -26,7 +26,7 @@ h1{
 }
 
 article {
-  max-width: 600px;
+  max-width:600px;
   margin: auto;
 }
 
@@ -55,6 +55,9 @@ footer {
   text-align: center;
 }
 
+audio{
+  max-width: 100%;
+}
 
 .byline {
   text-align: center;
@@ -131,6 +134,10 @@ footer {
   display: flex;
   margin-bottom: .5rem;
   width: 100%;
+}
+
+.songInfo{
+  max-width: 100%;
 }
 
 }
